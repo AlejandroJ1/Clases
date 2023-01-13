@@ -12,7 +12,7 @@ public class Rectangulo {
         this.alto = alto;
     }
 
-    public float getAncho(float ancho) {
+    public float getAncho() {
         return this.ancho;
     }
 
@@ -20,7 +20,7 @@ public class Rectangulo {
         this.ancho = ancho;
     }
 
-    public float getAlto(float alto) {
+    public float getAlto() {
         return this.alto;
     }
 

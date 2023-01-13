@@ -43,7 +43,7 @@ public class Fecha {
 
     @Override
     public String toString() {
-        return "Fecha [día=" + día + ", mes=" + mes + ", año=" + año = "]";
+        return "Fecha [día=" + día + ", mes=" + mes + ", año=" + año + "]";
     }
 
 }
